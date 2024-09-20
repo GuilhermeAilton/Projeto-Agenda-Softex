@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ambiente de configuração
+.env
+
+# Arquivos de log
+logs/
+*.log
+
+# Diretórios de compilação
+dist/
+build/
+
+# Dependências de IDE
+.vscode/
+.idea/
+
+# Sistema de arquivos
+.DS_Store
+Thumbs.db
+
+# Outros
+*.tgz
+*.zip
